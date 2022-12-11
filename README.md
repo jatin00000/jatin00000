@@ -65,8 +65,8 @@
      
   </td>
  </tr>
- <tr width="100%">
- <td>
+ <tr>
+ <td  width="100%">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin00000&layout=compact)](https://github.com/jatin00000/github-readme-stats)
 </td>
 </tr>
@@ -87,7 +87,8 @@
 
 </br>
 </br>
-## My Repositories
+## My Repositories </br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Supervisor-OCR)](https://github.com/jatin00000/Supervisor-OCR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=ChatRoom)](https://github.com/jatin00000/ChatRoom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Forecasting-the-various-Populations-of-Countries)](https://github.com/jatin00000/github-readme-stats)
