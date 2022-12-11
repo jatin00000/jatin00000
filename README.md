@@ -80,6 +80,7 @@
  
 </br>
 </br>
+
 ## My Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Supervisor-OCR)](https://github.com/jatin00000/Supervisor-OCR)
