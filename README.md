@@ -1,7 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
  <p>- <i>A undergraduate student and a software developer with good problem-solving skills. Passionate about programming and technology. Equipped with a diverse and promising skill-set.</i></p>
 
-&nbsp; 
 <hr>
 
 <img src="https://user-images.githubusercontent.com/89788120/171056531-5afa6fb0-3b60-4bfd-9250-f7724c608aac.gif" width="77%" />
