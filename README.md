@@ -54,11 +54,7 @@
 ## 📄📜 Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin00000&show_icons=true&theme=Gradient)
 </p>
      
   </td>
