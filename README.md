@@ -61,13 +61,15 @@
   
 ## 📄📜 Stats
 
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin00000&show_icons=true&theme=gradient)
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin00000&show_icons=true&theme=codeSTACKr)
 
      
   </td>
  </tr>
  <tr>
+  <td>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin00000&layout=compact)](https://github.com/jatin00000/github-readme-stats)
+  </td>
  </tr>
 </table>
 
