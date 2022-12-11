@@ -84,12 +84,12 @@
 </br>
 - - -
 <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Supervisor-OCR)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=ChatRoom)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Forecasting-the-various-Populations-of-Countries)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=TODOs-List)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Javascript-Clock)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Open-source-Contributions)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Supervisor-OCR)](https://github.com/jatin00000/Supervisor-OCR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=ChatRoom)](https://github.com/jatin00000/ChatRoom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Forecasting-the-various-Populations-of-Countries)](https://github.com/jatin00000/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=TODOs-List)](https://github.com/jatin00000/TODOs-List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Javascript-Clock)](https://github.com/jatin00000/Javascript-Clock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Open-source-Contributions)](https://github.com/jatin00000/Open-source-Contributions)
 
 
 
