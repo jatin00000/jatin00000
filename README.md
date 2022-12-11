@@ -53,9 +53,8 @@
   
 ## 📄📜 Stats
 
-<p align="center">
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin00000&show_icons=true&theme=Gradient)
-</p>
+
      
   </td>
  </tr>
