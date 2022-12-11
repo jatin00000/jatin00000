@@ -75,7 +75,9 @@
 
 
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin00000&layout=compact)](https://github.com/jatin00000/github-readme-stats)
+
 <br/>
 
 
