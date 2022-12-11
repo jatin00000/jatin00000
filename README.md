@@ -83,6 +83,7 @@
 </br>
 </br>
 - - -
+<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Supervisor-OCR)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=ChatRoom)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Forecasting-the-various-Populations-of-Countries)](https://github.com/anuraghazra/github-readme-stats)
