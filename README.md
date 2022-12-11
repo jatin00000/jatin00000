@@ -66,42 +66,17 @@
      
   </td>
  </tr>
- <tr>
-  <td>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin00000&layout=compact)](https://github.com/jatin00000/github-readme-stats)
-  </td>
- </tr>
+
+  
+
 </table>
 
 
 
 
 </br>
-
-<!--
-
-<details>
-
-  <summary> <h3> Post Links </h3> </summary>
-
-  </br>
-
-  <a href = "#" > <img src = "https://img.shields.io/static/v1?message=QnA&logo=StackOverflow&labelColor=F58025&color=white&logoColor=white&label=Stack%20Overflow&style=plastic"/></a>
- 
-  
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Communinty&logo=dev.to&labelColor=0A0A0A&color=white&logoColor=white&label=dev.to&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Blog%20Post&logo=GeeksforGeeks&labelColor=2F8D46&color=white&logoColor=white&label=gfg&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-  
-</details>
-
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin00000&layout=compact)](https://github.com/jatin00000/github-readme-stats)
+<br/>
 
 
 </br>
@@ -118,7 +93,7 @@
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jatin00000}/count.svg" /></p> 
 <br>
 </div>
  
@@ -129,8 +104,8 @@
 
 </br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jatin-69b466241/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; 
+
 
 </br>
 </br>
