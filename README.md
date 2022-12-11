@@ -20,7 +20,7 @@
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-05122A?style=flat&
+![Javascript](https://img.shields.io/badge/JavaScript-05122A?style=flat&)
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
@@ -47,18 +47,6 @@
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
-     
-</td>
-    <td>
-  
-## 📄📜 Stats
-
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin00000&show_icons=true&theme=Gradient)
-
-     
-  </td>
- </tr>
-</table>
 
 #### Environments
 
@@ -67,6 +55,22 @@
 ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
+
+</td>
+    <td>
+  
+## 📄📜 Stats
+
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin00000&show_icons=true&theme=gradient)
+
+     
+  </td>
+ </tr>
+ <tr>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin00000&layout=compact)](https://github.com/jatin00000/github-readme-stats)
+ </tr>
+</table>
+
 
 
 
