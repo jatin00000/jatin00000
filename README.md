@@ -82,7 +82,7 @@
 </br>
 
 ## Featured Repositories 🚀
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=ConferenceWebsite)](https://github.com/jatin00000/ConferenceWebsite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Supervisor-OCR)](https://github.com/jatin00000/Supervisor-OCR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=ChatRoom)](https://github.com/jatin00000/ChatRoom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin00000&repo=Forecasting-the-various-Populations-of-Countries)](https://github.com/jatin00000/github-readme-stats)
